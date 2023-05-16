@@ -59,7 +59,7 @@ main .container .headding p {
 
 @media (max-width: 61em) {
     main .container .headding p {
-        width: 27rem;
+        width: 30rem;
     }
 }
 
